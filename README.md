@@ -1,4 +1,4 @@
-# InstaReport
+![image](https://github.com/RealSlek/ReportInstagramBot/assets/137568513/43da6e4a-aecd-486c-bb51-9f86aba98b30)# InstaReport
 
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
 Version : 2.0.1
@@ -46,7 +46,7 @@ No need to install git in linux or termux
 
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
 
-- `git clone https://github.com/Crevils/InstaReport`
+- `git clone https://github.com/RealSlek/ReportInstagramBot`
 - `cd instareport`
 - `pip install -r requirements.txt`
 - `python ReportBot.py`
