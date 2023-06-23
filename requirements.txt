@@ -1,0 +1,6 @@
+colorama
+requests
+asyncio
+firebase-admin
+python-dotenv
+proxybroker
