@@ -1,4 +1,4 @@
-![image](https://github.com/RealSlek/ReportInstagramBot/assets/137568513/43da6e4a-aecd-486c-bb51-9f86aba98b30)# InstaReport
+# InstaReport
 
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
 Version : 2.0.1
